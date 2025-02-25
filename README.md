@@ -25,7 +25,7 @@ As a kid, I used to make **robots out of paper**. My mother and sister would thr
 - ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-- ![Photoshop](https://img.shields.io/badge/Photoshop-%23B3B3B3.svg?style=flat&logo=adobephotoshop&logoColor=black)
+<!--- ![Photoshop](https://img.shields.io/badge/Photoshop-%23B3B3B3.svg?style=flat&logo=adobephotoshop&logoColor=black)-->
 
 ### **Backend Development** ⚙️
 - ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
