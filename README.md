@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **AI & Robotics**
+- 🤝 I’m looking for help with **STEM Foundations**
 
 - 👨‍💻 All of my projects are available at [https://www.shuvodipdashimu.com](https://www.shuvodipdashimu.com)
 
