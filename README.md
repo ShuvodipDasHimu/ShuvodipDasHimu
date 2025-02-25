@@ -1,6 +1,6 @@
 # Hi, I'm Shuvodip Das Himu 👋
 
-I am **Passionately Curious** about technology and love exploring new developments in the tech world! Currently, I’m diving deep into **Frontend Web Development** and building cool projects along the way. 🚀
+I am **Passionately Curious** about **TECHNOLOGY** and love exploring new developments in the tech world! Currently, I’m diving deep into **Frontend Web Development** and building cool projects along the way. 🚀
 
 ## About Me
 - 🔭 I’m currently learning **Frontend Web Development** and constantly working to improve my skills.
