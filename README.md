@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shuvodipdashimu@gmail.com**
 
-- ⚡ Fun fact **As a kid often times I used to make Robots with paper. Although my mom & sister threw those away every time :p (My dad and brother never did that!)**
+- ⚡ Fun fact **As a kid often times I used to make Robots with paper. Although my mother & sister threw those away every time :p (My father and brother never did that!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
