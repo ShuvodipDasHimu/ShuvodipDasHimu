@@ -31,3 +31,41 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvodipdashimu&show_icons=true&locale=en" alt="shuvodipdashimu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvodipdashimu&" alt="shuvodipdashimu" /></p>
+
+
+
+# Hi, I'm Shuvodip Das Himu 👋
+
+I am **Passionately Curious** about technology and love exploring new developments in the tech world! Currently, I’m diving deep into **Frontend Web Development** and building cool projects along the way. 🚀
+
+## About Me
+- 🔭 I’m currently learning **Frontend Web Development** and constantly working to improve my skills.
+- 👯 I’m open to collaborating on **Open Source Projects** — let's create something amazing together!
+- 🤝 I’m looking for help with **STEM Foundations** — if you have any advice or resources, I’d love to connect.
+- 💬 Feel free to ask me about the **latest technologies & innovations** — I love discussing new trends and advancements.
+- 📫 You can reach me via email at [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com).
+- 🌐 All of my projects are available at [my personal website](https://www.shuvodipdashimu.com).
+
+## Fun Fact 😄
+As a kid, I used to make **robots out of paper**. My mother and sister would throw them away every time 😅, but my father and brother were always supportive of my creations! 🤖
+
+## Skills & Tools 🛠️
+- **Languages:** HTML5, CSS3, JavaScript, SQL
+- **Frontend:** React, Next.js, Tailwind CSS, Figma, Photoshop
+- **Backend:** Node.js, Express, MongoDB, Firebase
+- **Version Control:** Git, GitHub
+- **OS:** Linux
+
+## Projects 🌟
+Feel free to check out my work on GitHub and see the cool projects I’ve been working on! I’m always open to feedback and collaboration.
+
+- 🚀 [My Projects](https://github.com/ShuvodipDasHimu)
+
+## Let's Connect! 💬
+I'm always looking to learn and grow, so don't hesitate to reach out if you'd like to chat about tech, open-source, or anything else.
+
+📧 **Email:** [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com)
+
+---
+
+Thanks for visiting my profile, and have a great day! 😊
