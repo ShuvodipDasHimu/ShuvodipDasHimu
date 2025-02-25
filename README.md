@@ -8,7 +8,7 @@ I am **Passionately Curious** about technology and love exploring new developmen
 - 🤝 I’m looking for help with **STEM Foundations** — if you have any advice or resources, I’d love to connect.
 - 💬 Feel free to ask me about the **latest technologies & innovations** — I love discussing new trends and advancements.
 - 📫 You can reach me via email at [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com).
-- 🌐 All of my projects are available at [my personal website](https://www.shuvodipdashimu.com).
+<!--- 🌐 All of my projects are available at [my personal website](https://www.shuvodipdashimu.com).-->
 
 ## Fun Fact 😄
 As a kid, I used to make **robots out of paper**. My mother and sister would throw them away every time 😅 (My father and brother never did that tho!)
