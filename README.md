@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuvodip Das Himu</h1>
-<h3 align="center">Passionately Curious about Tech</h3>
+<h3 align="center">Asipiring Technologist</h3>
 
 - 🔭 I’m currently learning **Frontend Web Development**
 
