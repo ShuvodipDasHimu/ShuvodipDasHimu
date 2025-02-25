@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shuvodip Das Himu</h1>
 <h3 align="center">Passionately Curious about Tech</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvodipdashimu&label=Profile%20views&color=0e75b6&style=flat" alt="shuvodipdashimu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvodipdashimu" alt="shuvodipdashimu" /></a> </p>
-
 - 🔭 I’m currently learning **Frontend Web Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
