@@ -11,7 +11,7 @@ I am **Passionately Curious** about technology and love exploring new developmen
 - 🌐 All of my projects are available at [my personal website](https://www.shuvodipdashimu.com).
 
 ## Fun Fact 😄
-As a kid, I used to make **robots out of paper**. My mother and sister would throw them away every time 😅, but my father and brother were always supportive of my creations! 🤖
+As a kid, I used to make **robots out of paper**. My mother and sister would throw them away every time 😅 (My father and brother never did that tho!)
 
 ## Skills & Tools 🛠️
 
