@@ -6,7 +6,7 @@ I am a **Research Oriented Mindset Blud** 🗿
 ## About Me
 - 🔭 I’m currently learning **Frontend Web Development** and constantly working to improve my skills.
 - 👯 I’m open to collaborating on **Open Source Projects** — let's create something not-so-mediocre together fr.
-- 🤝 I’m looking for help with **STEM Foundations** — if you have any advice or resources, I’d love to have a convo.
+- 🤝 I’m looking for help with **STEM Foundations** — if you have any advice or resources, I’d love to have a yappin' session.
 - 💬 Feel free to **earrape** me about the **latest technologies & innovations** — I love yapping about that too.
 - 📫 You can reach me via email at [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com).
 <!--- 🌐 All of my projects are available at [my personal website](https://www.shuvodipdashimu.com).-->
