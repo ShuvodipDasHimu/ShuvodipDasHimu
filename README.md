@@ -1,7 +1,7 @@
 # Hi, I'm Shuvodip Das Himu 👋
 
 I am a **Research Oriented Mindset Blud** 🗣️🔥
-*What is unknown. can be known through Google * 🗿
+**What is unknown. can be known through Google** 🗿
 
 ## About Me
 - 🔭 I’m currently learning **Frontend Web Development** and constantly working to improve my skills.
