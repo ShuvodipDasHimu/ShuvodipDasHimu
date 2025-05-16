@@ -1,4 +1,4 @@
-# Hi, I'm Shuvodip Das Himu 👋 (Übermensch)
+# Hi, I'm Shuvodip Das Himu 👋   
 
 I am a **Research Oriented Mindset Blud** 🗿  
 **What is unknown. can be known through me** 🗣️🔥
