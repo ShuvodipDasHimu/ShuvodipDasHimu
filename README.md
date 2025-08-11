@@ -12,7 +12,7 @@ I am a **Research Oriented Mindset Blud** 🗿
 <!--- 🌐 All of my projects are available at [my personal website](https://www.shuvodipdashimu.com).-->
 
 ## Fun Fact 😄
-As a kid, I used to make **robots out of paper**. My mum and## 🚀 Skills & Tools
+As a kid, I used to make **robots out of paper**. My mum and##
 
 <div align="center">
 
