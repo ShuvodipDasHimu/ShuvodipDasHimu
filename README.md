@@ -11,9 +11,6 @@ I am a **Research Oriented Mindset Blud** 🗿
 - 📫 You can reach me via email at [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com).
 <!--- 🌐 All of my projects are available at [my personal website](https://www.shuvodipdashimu.com).-->
 
-## Fun Fact 😄
-As a kid, I used to make **robots out of paper**. My mum and##
-
 <div align="center">
 
 ## 🚀 Skills & Tools
