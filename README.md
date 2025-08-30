@@ -44,7 +44,7 @@ I am a **Research Oriented Mindset Blud** 🗿
 ## Projects 🌟
 Feel free to check out my work on GitHub and see the cool projects I’ve been working on! I’m always open to feedback and collaboration.
 
-- 🚀 [My Projects](https://github.com/ShuvodipDasHimu)
+- 🚀 [My Projects](https://shuvodipdashimu.vercel.app/projects)
 
 ## Let's Connect! 💬
 I'm always looking to learn and grow, so don't hesitate to reach out if you'd like to chat about tech, open-source, or anything else.
