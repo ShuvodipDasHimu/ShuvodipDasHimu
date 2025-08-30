@@ -4,6 +4,7 @@ I am a **Research Oriented Mindset Blud** 🗿
 **What is unknown. can be known through me** 🗣️🔥
 
 ## About Me
+- 💻 I'm currently a scholarship student in the AWS Business Intelligence Engineering Nanodegree program at Udacity.
 - 🔭 I’m currently learning **Frontend Web Development** and constantly working to improve my skills.
 - 👯 I’m open to collaborating on **Open Source Projects** — let's create something not-so-mediocre together fr.
 - 🤝 I’m looking for help with **STEM Foundations** — if you have any advice or resources, I’d love to have a yappin' session.
