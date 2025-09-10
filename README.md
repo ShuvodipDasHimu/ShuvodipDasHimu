@@ -61,6 +61,7 @@ I’m always open to **feedback, collaboration, and new ideas**.
 I’m constantly learning and building.  
 If you’d like to chat about tech, open source, or cool ideas:
 
+📧 [shuvodipwork@gmail.com](mailto:shuvodipwork@gmail.com)
 📧 [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com)  
 📧 [shuvodiptech@gmail.com](mailto:shuvodiptech@gmail.com)
 
