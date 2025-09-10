@@ -12,7 +12,10 @@
 - 🌱 Actively improving my **STEM & computer science foundations**  
 - 🤝 Open to collaborating on **open-source projects** and real-world tech ideas  
 - 🗣️ Always up for a chat about **new technologies, AI, robotics, and innovation**  
-- 📩 Reach me at: [shuvodipwork@gmail.com](mailto:shuvodipwork@gmail.com)  
+- 📩 Reach me at:  
+  - [shuvodipwork@gmail.com](mailto:shuvodipwork@gmail.com)  
+  - [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com)  
+  - [shuvodiptech@gmail.com](mailto:shuvodiptech@gmail.com)  
 
 > ⚡ *Fun Fact:* As a kid I built robots out of paper — my mom and sister kept throwing them away, but my dad and brother didn’t. 😄  
 
@@ -33,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="50" alt="React Router" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/saadeghi/daisyui/main/images/logo.svg" height="50" alt="daisyUI" />
 </p>
 
 ### ⚙️ Backend / Services
@@ -60,7 +62,8 @@ I’m always open to **feedback, collaboration, and new ideas**.
 I’m constantly learning and building.  
 If you’d like to chat about tech, open source, or cool ideas:
 
-📧 [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com)
+📧 [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com)  
+📧 [shuvodiptech@gmail.com](mailto:shuvodiptech@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ShuvodipDasHimu&color=87CEEB)
 
