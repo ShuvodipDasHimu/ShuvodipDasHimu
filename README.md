@@ -54,17 +54,6 @@ Explore my projects and see what I’m working on:
 
 I’m always open to **feedback, collaboration, and new ideas**.
 
----
-
-## 💬 Let’s Connect
-
-I’m constantly learning and building.  
-If you’d like to chat about tech, open source, or cool ideas:
-
-📧 [shuvodipwork@gmail.com](mailto:shuvodipwork@gmail.com)
-📧 [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com)  
-📧 [shuvodiptech@gmail.com](mailto:shuvodiptech@gmail.com)
-
 ![Profile views](https://komarev.com/ghpvc/?username=ShuvodipDasHimu&color=87CEEB)
 
 ---
