@@ -50,7 +50,7 @@
 ## 🌟 Projects
 
 Explore my projects and see what I’m working on:  
-🔗 [shuvodipdashimu.vercel.app/projects](https://shuvodipdashimu.vercel.app/projects)  
+🔗 [shuvodipdashimu.vercel.app/](https://shuvodipdashimu.vercel.app/)  
 
 I’m always open to **feedback, collaboration, and new ideas**.
 
