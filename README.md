@@ -1,3 +1,4 @@
+```markdown
 # 👋 Hi, I’m **Shuvodip Das Himu**
 
 💡 *Research-oriented technologist in the making*  
@@ -7,14 +8,15 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **AWS Business Intelligence Engineering Nanodegree Scholar** at *Udacity*  
-- 🛠️ Currently learning **MERN Stack with Next.js** to build fast, scalable web apps  
-- 🌱 Actively improving my **STEM & computer science foundations**  
+- 🎓 **AWS Business Intelligence Engineering Nanodegree Scholar & AWS AI & ML Scholar** at *Udacity*[cite: 1]
+- 🛠️ **Frontend Engineer (Intern)** at *SpeakGenie*, building and scaling a primary AI English Tutor app and deploying platforms like *AlignCare.co.in* and *DharmaAngels.com*[cite: 1]
+- ⚡ Currently learning **MERN Stack with Next.js** to build fast, scalable web apps[cite: 1]
+- 🌱 Actively improving my **STEM & computer science foundations**[cite: 1]
 - 🤝 Open to collaborating on **open-source projects** and real-world tech ideas  
 - 🗣️ Always up for a chat about **new technologies, AI, robotics, and innovation**  
 - 📩 Reach me at:  
   - [shuvodipwork@gmail.com](mailto:shuvodipwork@gmail.com)  
-  - [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com)  
+  - [shuvodipdashimu@gmail.com](mailto:shuvodipdashimu@gmail.com)[cite: 1]  
   - [shuvodiptech@gmail.com](mailto:shuvodiptech@gmail.com)  
 
 > ⚡ *Fun Fact:* As a kid I built robots out of paper — my mom and sister kept throwing them away, but my dad and brother didn’t. 😄  
@@ -50,7 +52,7 @@
 ## 🌟 Projects
 
 Explore my projects and see what I’m working on:  
-🔗 [shuvodipdashimu.vercel.app/](https://shuvodipdashimu.vercel.app/)  
+🔗 [shuvodipdashimu.vercel.app/](https://shuvodipdashimu.vercel.app/)[cite: 1]  
 
 I’m always open to **feedback, collaboration, and new ideas**.
 
@@ -59,3 +61,5 @@ I’m always open to **feedback, collaboration, and new ideas**.
 ---
 
 > “*What is unknown can be known through me.*” 🚀  
+
+```
