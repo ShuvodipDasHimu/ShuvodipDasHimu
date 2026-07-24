@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I’m **Shuvodip Das Himu**
 
 💡 *Research-oriented technologist in the making*  
@@ -60,6 +59,4 @@ I’m always open to **feedback, collaboration, and new ideas**.
 
 ---
 
-> “*What is unknown can be known through me.*” 🚀  
-
-```
+> “*What is unknown can be known through me.*” 🚀
