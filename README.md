@@ -48,8 +48,8 @@
 
 ### 🤖 AI Tools
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/File:Google_Gemini_icon_2025.svg" height="50" alt="Gemini" />
-  <img src="https://commons.wikimedia.org/wiki/File:Claude_AI_symbol.svg" height="50" alt="Claude" />
+  <img src="./Gemini.webp" height="50" alt="Gemini" />
+  <img src="./Claude.webp" height="50" alt="Claude" />
   <img src="https://www.cursor.com/favicon.ico" height="50" alt="Cursor" />
 </p>
 ---
