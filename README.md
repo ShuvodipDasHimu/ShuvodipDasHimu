@@ -48,7 +48,7 @@
 
 ### 🤖 AI Tools
 <p align="center">
-  <img src="./Gemini.webp" height="50" alt="Gemini" />
+  <img src="./Gemini.png" height="50" alt="Gemini" />
   <img src="./Claude.webp" height="50" alt="Claude" />
   <img src="https://www.cursor.com/favicon.ico" height="50" alt="Cursor" />
 </p>
