@@ -46,10 +46,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
 </p>
 
-### ⚙️ AI Tools
+### 🤖 AI Tools
 <p align="center">
-  <img src="https://www.gstatic.com/lamda/images/gemini_favicon_f06b315d0c4d1f444e68e.png" height="50" alt="Gemini" />
-  <img src="https://anthropic.com/favicon.ico" height="50" alt="Claude" />
+  <img src="https://commons.wikimedia.org/wiki/File:Google_Gemini_icon_2025.svg" height="50" alt="Gemini" />
+  <img src="https://commons.wikimedia.org/wiki/File:Claude_AI_symbol.svg" height="50" alt="Claude" />
   <img src="https://www.cursor.com/favicon.ico" height="50" alt="Cursor" />
 </p>
 ---
