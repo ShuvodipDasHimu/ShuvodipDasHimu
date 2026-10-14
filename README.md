@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **AWS Business Intelligence Engineering Nanodegree Scholar & AWS AI & ML Scholar** at *Udacity*
-- 🛠️ **Frontend Engineer (Intern)** at *SpeakGenie*, building and scaling a primary AI English Tutor app and deploying platforms like *AlignCare.co.in* and *DharmaAngels.com*
+- 🛠️ **Frontend Engineer ** at *Dharma Angels*, implementing comfortable UI & UX into WEB.
 - ⚡ Currently learning **MERN Stack with Next.js** to build fast, scalable web apps
 - 🌱 Actively improving my **STEM & computer science foundations**
 - 🤝 Open to collaborating on **open-source projects** and real-world tech ideas  
