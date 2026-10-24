@@ -14,7 +14,7 @@
 - 🛠️ **Frontend Engineer** at **Dharma Angels**, building **MeditationTTC**, the home of a 12-week live online meditation teacher training
 - 🧱 Previously a **Frontend Engineer Intern at SpeakGenie** (an AI English tutor app), where I was **Lead Frontend Engineer** for our team at the **Google AI Hackathon**
 - 🌐 Independently designed, built and deployed **Dharma Angels, AlignCare, Topmind Care and Dezign School**
-- 🎓 **AWS Business Intelligence Engineer Nanodegree** and **AWS Generative AI** scholar at *Udacity*, plus **Responsive Web Design** certified by *freeCodeCamp*
+- 🎓 **AWS Business Intelligence Engineer Nanodegree** and **AWS AI & ML** scholar at *Udacity*, plus **Responsive Web Design** certified by *freeCodeCamp*
 - ⚡ Currently learning the **MERN stack with Next.js** to build fast, scalable web apps
 - 🌱 Actively strengthening my **STEM & computer science foundations**
 - 🤝 Open to **open-source collaboration** and real-world tech ideas
