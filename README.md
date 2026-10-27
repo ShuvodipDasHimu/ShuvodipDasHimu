@@ -134,6 +134,7 @@ I'm always open to **feedback, collaboration, and new ideas**, especially around
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ShuvodipDasHimu&color=87CEEB&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="assets/views-label.svg" height="40" align="absmiddle" alt="You are visitor" />
+<img src="https://komarev.com/ghpvc/?username=ShuvodipDasHimu&color=87CEEB&style=for-the-badge&label=No." align="absmiddle" alt="Profile views counter" />
 
 </div>
