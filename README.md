@@ -28,6 +28,22 @@
 
 <br/>
 
+<img src="assets/title-mlbb.svg" width="100%" alt="From Esports to Engineering" />
+
+Before code, I led a squad in **Mobile Legends: Bang Bang** as a **Squad Leader**, playing **EXP Laner / Roamer**. Competitive play trained me to think fast, read the whole board, and lead under pressure, and those habits now shape the way I build software.
+
+<div align="center">
+
+<img src="assets/mlbb-hero.svg" width="100%" alt="Former MLBB eSports Leader: Squad Leader, EXP Laner and Roamer" />
+
+<br/><br/>
+
+<img src="assets/mlbb-skills.svg" width="100%" alt="What MLBB taught me: analytical intelligence, situational awareness, map awareness, micro and macro, counter and re-counter, draft picking, META awareness, shotcalling and leadership" />
+
+</div>
+
+<br/>
+
 <img src="assets/title-stack.svg" width="100%" alt="Tech Stack" />
 
 <div align="center">

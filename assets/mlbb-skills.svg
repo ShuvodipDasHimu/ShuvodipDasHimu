@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 366" width="1000" height="366" role="img" aria-label="Skills from MLBB: Analytical Intelligence - Reading the data fast and fixing root causes, not symptoms.; Situational Awareness - Spotting risks early across code, deadlines, and production.; Map Awareness - Keeping the whole system in view while working on one part.; Micro &amp; Macro - Clean details in the code, smart strategy in the architecture.; Counter &amp; Re-counter - Weighing trade-offs between tools, patterns, and approaches.; Draft Picking - Choosing the right tech stack for the problem and the team.; META Awareness - Staying current as tools and best practices keep shifting.; Shotcalling &amp; Leadership - Clear calls, owning decisions, and lifting the team up.">
+<g transform="translate(0 0)"><g opacity="0"><animateTransform attributeName="transform" type="translate" from="0 45" to="0 0" dur="0.9s" begin="0.15s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.15s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3.6s" begin="1.15s" repeatCount="indefinite"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="#0d1117" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="70 808"><animate attributeName="stroke-dashoffset" from="0" to="-878" dur="5.5s" begin="0.15s" repeatCount="indefinite"/></rect>
+<clipPath id="q0"><rect x="2" y="2" width="228" height="168" rx="15"/></clipPath>
+<g clip-path="url(#q0)"><circle cx="212" cy="22" r="55" fill="#38bdf8" opacity="0.08"><animate attributeName="r" values="45;70;45" dur="5s" repeatCount="indefinite"/></circle></g>
+<circle cx="38" cy="38" r="22" fill="#38bdf8" fill-opacity="0.16"/>
+<text x="38" y="47" text-anchor="middle" font-size="24">🧠<animateTransform attributeName="transform" type="rotate" values="0 38 38;-9 38 38;9 38 38;0 38 38" dur="3.2s" begin="1.65s" repeatCount="indefinite"/></text>
+<text x="20" y="84" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="800" fill="#e6edf3">Analytical Intelligence</text>
+<text x="20" y="102" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="9.5" font-weight="800" letter-spacing="2" fill="#38bdf8">IN ENGINEERING</text>
+<text x="20" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">Reading the data fast and</text><text x="20" y="137" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">fixing root causes, not</text><text x="20" y="156" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">symptoms.</text>
+</g></g></g><g transform="translate(256 0)"><g opacity="0"><animateTransform attributeName="transform" type="translate" from="0 45" to="0 0" dur="0.9s" begin="0.32999999999999996s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.32999999999999996s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="3.9s" begin="1.33s" repeatCount="indefinite"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="#0d1117" stroke="#818cf8" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="none" stroke="#818cf8" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="70 808"><animate attributeName="stroke-dashoffset" from="0" to="-878" dur="5.5s" begin="0.32999999999999996s" repeatCount="indefinite"/></rect>
+<clipPath id="q1"><rect x="2" y="2" width="228" height="168" rx="15"/></clipPath>
+<g clip-path="url(#q1)"><circle cx="212" cy="22" r="55" fill="#818cf8" opacity="0.08"><animate attributeName="r" values="45;70;45" dur="5s" repeatCount="indefinite"/></circle></g>
+<circle cx="38" cy="38" r="22" fill="#818cf8" fill-opacity="0.16"/>
+<text x="38" y="47" text-anchor="middle" font-size="24">👁️<animateTransform attributeName="transform" type="rotate" values="0 38 38;-9 38 38;9 38 38;0 38 38" dur="3.2s" begin="1.83s" repeatCount="indefinite"/></text>
+<text x="20" y="84" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="800" fill="#e6edf3">Situational Awareness</text>
+<text x="20" y="102" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="9.5" font-weight="800" letter-spacing="2" fill="#818cf8">IN ENGINEERING</text>
+<text x="20" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">Spotting risks early across</text><text x="20" y="137" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">code, deadlines, and</text><text x="20" y="156" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">production.</text>
+</g></g></g><g transform="translate(512 0)"><g opacity="0"><animateTransform attributeName="transform" type="translate" from="0 45" to="0 0" dur="0.9s" begin="0.51s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.51s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.2s" begin="1.51s" repeatCount="indefinite"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="#0d1117" stroke="#a78bfa" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="70 808"><animate attributeName="stroke-dashoffset" from="0" to="-878" dur="5.5s" begin="0.51s" repeatCount="indefinite"/></rect>
+<clipPath id="q2"><rect x="2" y="2" width="228" height="168" rx="15"/></clipPath>
+<g clip-path="url(#q2)"><circle cx="212" cy="22" r="55" fill="#a78bfa" opacity="0.08"><animate attributeName="r" values="45;70;45" dur="5s" repeatCount="indefinite"/></circle></g>
+<circle cx="38" cy="38" r="22" fill="#a78bfa" fill-opacity="0.16"/>
+<text x="38" y="47" text-anchor="middle" font-size="24">🗺️<animateTransform attributeName="transform" type="rotate" values="0 38 38;-9 38 38;9 38 38;0 38 38" dur="3.2s" begin="2.01s" repeatCount="indefinite"/></text>
+<text x="20" y="84" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="800" fill="#e6edf3">Map Awareness</text>
+<text x="20" y="102" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="9.5" font-weight="800" letter-spacing="2" fill="#a78bfa">IN ENGINEERING</text>
+<text x="20" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">Keeping the whole system in</text><text x="20" y="137" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">view while working on one</text><text x="20" y="156" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">part.</text>
+</g></g></g><g transform="translate(768 0)"><g opacity="0"><animateTransform attributeName="transform" type="translate" from="0 45" to="0 0" dur="0.9s" begin="0.6900000000000001s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.6900000000000001s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.5s" begin="1.69s" repeatCount="indefinite"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="#0d1117" stroke="#e879f9" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="none" stroke="#e879f9" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="70 808"><animate attributeName="stroke-dashoffset" from="0" to="-878" dur="5.5s" begin="0.6900000000000001s" repeatCount="indefinite"/></rect>
+<clipPath id="q3"><rect x="2" y="2" width="228" height="168" rx="15"/></clipPath>
+<g clip-path="url(#q3)"><circle cx="212" cy="22" r="55" fill="#e879f9" opacity="0.08"><animate attributeName="r" values="45;70;45" dur="5s" repeatCount="indefinite"/></circle></g>
+<circle cx="38" cy="38" r="22" fill="#e879f9" fill-opacity="0.16"/>
+<text x="38" y="47" text-anchor="middle" font-size="24">🔬<animateTransform attributeName="transform" type="rotate" values="0 38 38;-9 38 38;9 38 38;0 38 38" dur="3.2s" begin="2.19s" repeatCount="indefinite"/></text>
+<text x="20" y="84" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="800" fill="#e6edf3">Micro &amp; Macro</text>
+<text x="20" y="102" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="9.5" font-weight="800" letter-spacing="2" fill="#e879f9">IN ENGINEERING</text>
+<text x="20" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">Clean details in the code,</text><text x="20" y="137" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">smart strategy in the</text><text x="20" y="156" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">architecture.</text>
+</g></g></g><g transform="translate(0 194)"><g opacity="0"><animateTransform attributeName="transform" type="translate" from="0 45" to="0 0" dur="0.9s" begin="0.87s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.87s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.8s" begin="1.87s" repeatCount="indefinite"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="#0d1117" stroke="#f472b6" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="none" stroke="#f472b6" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="70 808"><animate attributeName="stroke-dashoffset" from="0" to="-878" dur="5.5s" begin="0.87s" repeatCount="indefinite"/></rect>
+<clipPath id="q4"><rect x="2" y="2" width="228" height="168" rx="15"/></clipPath>
+<g clip-path="url(#q4)"><circle cx="212" cy="22" r="55" fill="#f472b6" opacity="0.08"><animate attributeName="r" values="45;70;45" dur="5s" repeatCount="indefinite"/></circle></g>
+<circle cx="38" cy="38" r="22" fill="#f472b6" fill-opacity="0.16"/>
+<text x="38" y="47" text-anchor="middle" font-size="24">⚖️<animateTransform attributeName="transform" type="rotate" values="0 38 38;-9 38 38;9 38 38;0 38 38" dur="3.2s" begin="2.37s" repeatCount="indefinite"/></text>
+<text x="20" y="84" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="800" fill="#e6edf3">Counter &amp; Re-counter</text>
+<text x="20" y="102" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="9.5" font-weight="800" letter-spacing="2" fill="#f472b6">IN ENGINEERING</text>
+<text x="20" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">Weighing trade-offs between</text><text x="20" y="137" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">tools, patterns, and</text><text x="20" y="156" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">approaches.</text>
+</g></g></g><g transform="translate(256 194)"><g opacity="0"><animateTransform attributeName="transform" type="translate" from="0 45" to="0 0" dur="0.9s" begin="1.0499999999999998s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="1.0499999999999998s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.1s" begin="2.05s" repeatCount="indefinite"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="#0d1117" stroke="#fb923c" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="none" stroke="#fb923c" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="70 808"><animate attributeName="stroke-dashoffset" from="0" to="-878" dur="5.5s" begin="1.0499999999999998s" repeatCount="indefinite"/></rect>
+<clipPath id="q5"><rect x="2" y="2" width="228" height="168" rx="15"/></clipPath>
+<g clip-path="url(#q5)"><circle cx="212" cy="22" r="55" fill="#fb923c" opacity="0.08"><animate attributeName="r" values="45;70;45" dur="5s" repeatCount="indefinite"/></circle></g>
+<circle cx="38" cy="38" r="22" fill="#fb923c" fill-opacity="0.16"/>
+<text x="38" y="47" text-anchor="middle" font-size="24">🎯<animateTransform attributeName="transform" type="rotate" values="0 38 38;-9 38 38;9 38 38;0 38 38" dur="3.2s" begin="2.55s" repeatCount="indefinite"/></text>
+<text x="20" y="84" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="800" fill="#e6edf3">Draft Picking</text>
+<text x="20" y="102" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="9.5" font-weight="800" letter-spacing="2" fill="#fb923c">IN ENGINEERING</text>
+<text x="20" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">Choosing the right tech</text><text x="20" y="137" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">stack for the problem and</text><text x="20" y="156" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">the team.</text>
+</g></g></g><g transform="translate(512 194)"><g opacity="0"><animateTransform attributeName="transform" type="translate" from="0 45" to="0 0" dur="0.9s" begin="1.23s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="1.23s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.4s" begin="2.23s" repeatCount="indefinite"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="#0d1117" stroke="#fbbf24" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="none" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="70 808"><animate attributeName="stroke-dashoffset" from="0" to="-878" dur="5.5s" begin="1.23s" repeatCount="indefinite"/></rect>
+<clipPath id="q6"><rect x="2" y="2" width="228" height="168" rx="15"/></clipPath>
+<g clip-path="url(#q6)"><circle cx="212" cy="22" r="55" fill="#fbbf24" opacity="0.08"><animate attributeName="r" values="45;70;45" dur="5s" repeatCount="indefinite"/></circle></g>
+<circle cx="38" cy="38" r="22" fill="#fbbf24" fill-opacity="0.16"/>
+<text x="38" y="47" text-anchor="middle" font-size="24">📈<animateTransform attributeName="transform" type="rotate" values="0 38 38;-9 38 38;9 38 38;0 38 38" dur="3.2s" begin="2.73s" repeatCount="indefinite"/></text>
+<text x="20" y="84" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="800" fill="#e6edf3">META Awareness</text>
+<text x="20" y="102" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="9.5" font-weight="800" letter-spacing="2" fill="#fbbf24">IN ENGINEERING</text>
+<text x="20" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">Staying current as tools</text><text x="20" y="137" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">and best practices keep</text><text x="20" y="156" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">shifting.</text>
+</g></g></g><g transform="translate(768 194)"><g opacity="0"><animateTransform attributeName="transform" type="translate" from="0 45" to="0 0" dur="0.9s" begin="1.41s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="1.41s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.7s" begin="2.41s" repeatCount="indefinite"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="#0d1117" stroke="#34d399" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="229" height="169" rx="16" fill="none" stroke="#34d399" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="70 808"><animate attributeName="stroke-dashoffset" from="0" to="-878" dur="5.5s" begin="1.41s" repeatCount="indefinite"/></rect>
+<clipPath id="q7"><rect x="2" y="2" width="228" height="168" rx="15"/></clipPath>
+<g clip-path="url(#q7)"><circle cx="212" cy="22" r="55" fill="#34d399" opacity="0.08"><animate attributeName="r" values="45;70;45" dur="5s" repeatCount="indefinite"/></circle></g>
+<circle cx="38" cy="38" r="22" fill="#34d399" fill-opacity="0.16"/>
+<text x="38" y="47" text-anchor="middle" font-size="24">📣<animateTransform attributeName="transform" type="rotate" values="0 38 38;-9 38 38;9 38 38;0 38 38" dur="3.2s" begin="2.91s" repeatCount="indefinite"/></text>
+<text x="20" y="84" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="800" fill="#e6edf3">Shotcalling &amp; Leadership</text>
+<text x="20" y="102" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="9.5" font-weight="800" letter-spacing="2" fill="#34d399">IN ENGINEERING</text>
+<text x="20" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">Clear calls, owning</text><text x="20" y="137" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">decisions, and lifting the</text><text x="20" y="156" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#c9d1d9">team up.</text>
+</g></g></g>
+</svg>
