@@ -20,11 +20,13 @@
 <br/>
 
 ## 👨‍💻 About Me
- 🛠️ Frontend Engineer at Dharma Angels, building MeditationTTC, a 12-week live online meditation teacher training  
- 🧱 Previously Frontend Engineer Intern at SpeakGenie, where I was Lead Frontend Engineer for our team at the Google AI Hackathon  
- 🎓 AWS Business Intelligence Engineer Nanodegree and AWS AI & ML scholar at Udacity, plus Responsive Web Design certified by freeCodeCamp  
- 🎯 Focus: Fullstack engineering, AI systems, and STEM & CS foundations  
- 🤝 Open to: open-source collaboration, real-world tech ideas, and chats about AI, robotics & innovation  
+
+- 🛠️ **Frontend Engineer** at **Dharma Angels**, building **MeditationTTC**, a 12-week live online meditation teacher training
+- 🧱 Previously **Frontend Engineer Intern at SpeakGenie**, where I was **Lead Frontend Engineer** for our team at the **Google AI Hackathon**
+- 🎓 **AWS Business Intelligence Engineer Nanodegree** and **AWS AI & ML** scholar at *Udacity*, plus **Responsive Web Design** certified by *freeCodeCamp*
+- 🎯 **Focus:** backend engineering, AI systems, and STEM & CS foundations
+- 🤖 **Exploring next:** Udacity's **Autonomous Systems School**, with a pull toward robotics, self-driving cars, and autonomous flight
+- 🤝 **Open to:** open-source collaboration, real-world tech ideas, and chats about AI, robotics & innovation
 
 > ⚡ **Fun fact:** As a kid I built robots out of paper. My mom and sister kept throwing them away, but my dad and brother didn't. 😄
 
@@ -82,6 +84,22 @@ flowchart LR
 - **DevOps:** Docker · Multi-Container Applications · NGINX · AWS · GitHub Actions · CI/CD · VPS
 
 </details>
+
+<br/>
+
+## 🤖 On My Radar: Autonomous Systems
+
+> Paper robots as a kid, real robots someday. I'm interested in Udacity's **Autonomous Systems School** and the engineering paths it opens up.
+
+<div align="center">
+
+| 🦾 Robotics Software Engineer | 🚗 Self-Driving Car Engineer | 🚁 Autonomous Flight Engineer |
+| :-: | :-: | :-: |
+| Robot perception, localization, and navigation | Sensors, vision, and driving software | Drones, flight control, and autonomy |
+
+![Udacity](https://img.shields.io/badge/Udacity-Autonomous_Systems_School-02B3E4?style=for-the-badge&logo=udacity&logoColor=white)
+
+</div>
 
 <br/>
 
