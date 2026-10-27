@@ -8,9 +8,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shuvodipdashimu.vercel.app-87CEEB?style=for-the-badge&logo=vercel&logoColor=white)](https://shuvodipdashimu.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shuvodipdashimu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shuvodiphimu)
-[![Email](https://img.shields.io/badge/Email-shuvodipwork@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvodipwork@gmail.com)
+<a href="https://shuvodipdashimu.vercel.app/"><img src="assets/contact-portfolio.svg" width="32%" alt="Portfolio: shuvodipdashimu.vercel.app" /></a>
+<a href="mailto:shuvodipdashimu@gmail.com"><img src="assets/contact-email.svg" width="32%" alt="Email: shuvodipdashimu@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/shuvodiphimu"><img src="assets/contact-linkedin.svg" width="32%" alt="LinkedIn: shuvodiphimu" /></a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=ShuvodipDasHimu&color=87CEEB&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 
