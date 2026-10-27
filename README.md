@@ -12,24 +12,19 @@
 <a href="mailto:shuvodipdashimu@gmail.com"><img src="assets/contact-email.svg" width="32%" alt="Email: shuvodipdashimu@gmail.com" /></a>
 <a href="https://www.linkedin.com/in/shuvodiphimu"><img src="assets/contact-linkedin.svg" width="32%" alt="LinkedIn: shuvodiphimu" /></a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ShuvodipDasHimu&color=87CEEB&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-
 </div>
 
 <br/>
 
 <img src="assets/title-about.svg" width="100%" alt="About Me" />
 
-- 🛠️ **Frontend Engineer** at **Dharma Angels**, building **MeditationTTC**, a 12-week live online meditation teacher training
-- 🧱 Previously **Frontend Engineer Intern at SpeakGenie**, where I was **Lead Frontend Engineer** for our team at the **Google AI Hackathon**
-- 🎓 **AWS Business Intelligence Engineer Nanodegree** and **AWS AI & ML** scholar at *Udacity*, plus **Responsive Web Design** certified by *freeCodeCamp*
-- 🎯 **Focus:** backend engineering, AI systems, and STEM & CS foundations
-- 🤖 **Exploring next:** Udacity's **Autonomous Systems School**, with a pull toward robotics, self-driving cars, and autonomous flight
-- 🤝 **Open to:** open-source collaboration, real-world tech ideas, and chats about AI, robotics & innovation
+<div align="center">
+<img src="assets/about-cards.svg" width="100%" alt="About me: Frontend Engineer at Dharma Angels building MeditationTTC; previously Frontend Engineer Intern at SpeakGenie and Lead Frontend Engineer at the Google AI Hackathon; AWS Business Intelligence Engineer Nanodegree, AWS AI and ML scholar, Responsive Web Design certified; focused on backend engineering, AI systems and STEM and CS foundations; exploring Udacity's Autonomous Systems School; open to open-source collaboration, real-world tech ideas, and chats about AI, robotics and innovation" />
 
-> ⚡ **Fun fact:** As a kid I built robots out of paper. My mom and sister kept throwing them away, but my dad and brother didn't. 😄
+<br/><br/>
+
+<img src="assets/funfact.svg" width="100%" alt="Fun fact: as a kid I built robots out of paper. My mom and sister kept throwing them away, but my dad and brother didn't." />
+</div>
 
 <br/>
 
@@ -136,3 +131,9 @@ More projects, my resume, and certifications live on my portfolio: **[shuvodipda
 I'm always open to **feedback, collaboration, and new ideas**, especially around web apps, AI, and open source. If something here sparks a thought, reach out.
 
 <img src="assets/footer.svg" width="100%" alt="What is unknown can be known through me." />
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ShuvodipDasHimu&color=87CEEB&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
