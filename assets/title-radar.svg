@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 78" width="1000" height="78" role="img" aria-label="🤖 On My Radar">
+<defs>
+<linearGradient id="g" gradientUnits="userSpaceOnUse" x1="22" y1="0" x2="520" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+<animate attributeName="x1" values="22;300;22" dur="6s" repeatCount="indefinite"/><animate attributeName="x2" values="520;800;520" dur="6s" repeatCount="indefinite"/></linearGradient>
+<filter id="gl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="0" y="16" width="6" height="0" rx="3" fill="url(#g)"><animate attributeName="height" from="0" to="34" dur="0.5s" fill="freeze"/></rect>
+<g opacity="0"><animateTransform attributeName="transform" type="translate" from="-60 0" to="0 0" dur="0.9s" begin="0.15s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.15s" fill="freeze"/>
+<text x="22" y="43" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="800" fill="url(#g)">🤖 On My Radar</text></g>
+<line x1="22" y1="62" x2="978" y2="62" stroke="#8b949e" stroke-opacity="0.25" stroke-width="3" stroke-linecap="round"/>
+<line x1="22" y1="62" x2="978" y2="62" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-dasharray="956" stroke-dashoffset="956"><animate attributeName="stroke-dashoffset" from="956" to="0" dur="1.4s" begin="0.3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".3 .7 .2 1"/></line>
+<circle r="5" fill="#38bdf8" filter="url(#gl)" opacity="0"><animateMotion path="M22 62 L978 62" dur="4s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="4s" begin="1.8s" repeatCount="indefinite"/></circle>
+</svg>

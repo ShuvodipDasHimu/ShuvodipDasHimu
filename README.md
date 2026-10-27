@@ -1,10 +1,9 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Shuvodip%20Das%20Himu&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Engineer%20%E2%80%A2%20Research-Oriented%20Technologist&descAlignY=58&descSize=18" width="100%" alt="Header" />
+<img src="assets/header.svg" width="100%" alt="Shuvodip Das Himu, Frontend Engineer" />
 
 <a href="https://shuvodipdashimu.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=87CEEB&center=true&vCenter=true&width=720&lines=Turning+curiosity+into+code+%26+ideas+into+innovation;Frontend+Engineer+%40+Dharma+Angels;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Now+leveling+up+into+backend+%26+AI+engineering+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=87CEEB&center=true&vCenter=true&width=760&lines=Turning+curiosity+into+code+%26+ideas+into+innovation;Frontend+Engineer+%40+Dharma+Angels;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;Now+leveling+up+into+backend+%26+AI+engineering+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <br/>
@@ -19,7 +18,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+<img src="assets/title-about.svg" width="100%" alt="About Me" />
 
 - 🛠️ **Frontend Engineer** at **Dharma Angels**, building **MeditationTTC**, a 12-week live online meditation teacher training
 - 🧱 Previously **Frontend Engineer Intern at SpeakGenie**, where I was **Lead Frontend Engineer** for our team at the **Google AI Hackathon**
@@ -32,44 +31,28 @@
 
 <br/>
 
-## 🧰 Tech Stack
+<img src="assets/title-stack.svg" width="100%" alt="Tech Stack" />
 
 <div align="center">
 
-| | |
-| :-- | :-- |
-| **🗣️ Languages** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **🖥️ Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **⚙️ Backend & Services** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **🧰 Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **🤖 AI Tools** | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) |
+**Shipping with**
+
+<img src="assets/marquee-stack.svg" width="100%" alt="Skills I ship with: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Node.js, Express, MongoDB, Firebase, Git, GitHub, Vercel, Gemini, Claude, Cursor" />
+
+**Learning right now**
+
+<img src="assets/marquee-learning.svg" width="100%" alt="Learning: NestJS, PostgreSQL, Drizzle, Redis, vector databases, RAG, LangChain, multi-agent systems, Docker, NGINX, AWS, CI/CD" />
 
 </div>
 
 <br/>
 
-## 🌱 Currently Leveling Up
+<img src="assets/title-learning.svg" width="100%" alt="Currently Leveling Up" />
 
-> I'm moving from frontend into **full-stack, SaaS, and AI engineering**. Here's the path I'm on, and I'm learning in public.
-
-```mermaid
-flowchart LR
-    A["🏗️ Backend Core<br/>NestJS · OOP · Auth · RBAC"] --> B["🗄️ Data Layer<br/>PostgreSQL · Drizzle · Redis"]
-    B --> C["🏢 SaaS Architecture<br/>Multi-tenancy · System Design"]
-    C --> D["🧠 AI Layer<br/>LLMs · RAG · Agents"]
-    D --> E["🚢 Ship It<br/>Docker · NGINX · AWS · CI/CD"]
-```
+> I'm moving from frontend into **full-stack, SaaS, and AI engineering**, and I'm learning in public. This is the path I'm on:
 
 <div align="center">
-
-| 🏗️ Backend Core | 🗄️ Data Layer | 🧠 AI Layer | 🚢 DevOps |
-| :-: | :-: | :-: | :-: |
-| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![OOP](https://img.shields.io/badge/OOP-6C63FF?style=flat-square) | ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black) | ![RAG](https://img.shields.io/badge/RAG-FF6F61?style=flat-square) | ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) |
-| ![Auth](https://img.shields.io/badge/Auth-JWT_%26_OAuth-orange?style=flat-square) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![Embeddings](https://img.shields.io/badge/Embeddings-8E75B2?style=flat-square) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
-| ![RBAC](https://img.shields.io/badge/RBAC-1E90FF?style=flat-square) | ![Vector DB](https://img.shields.io/badge/Vector_DB-7B2FF7?style=flat-square) | ![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-00B8A9?style=flat-square) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| ![Testing](https://img.shields.io/badge/Testing-C21325?style=flat-square&logo=jest&logoColor=white) | ![Multi-tenant](https://img.shields.io/badge/Multi--tenant-F59E0B?style=flat-square) | ![Guardrails](https://img.shields.io/badge/AI_Guardrails-EF4444?style=flat-square) | ![VPS](https://img.shields.io/badge/VPS-334155?style=flat-square) |
-
+<img src="assets/roadmap.svg" width="100%" alt="Roadmap: Backend Core, Data Layer, SaaS Architecture, AI Layer, Ship It" />
 </div>
 
 <details>
@@ -87,40 +70,39 @@ flowchart LR
 
 <br/>
 
-## 🤖 On My Radar: Autonomous Systems
-
-> Paper robots as a kid, real robots someday. I'm interested in Udacity's **Autonomous Systems School** and the engineering paths it opens up.
+<img src="assets/title-radar.svg" width="100%" alt="On My Radar" />
 
 <div align="center">
+
+<img src="assets/radar.svg" width="200" alt="Animated radar" />
+
+Paper robots as a kid, real robots someday. I'm interested in Udacity's **Autonomous Systems School** and the paths it opens up.
 
 | 🦾 Robotics Software Engineer | 🚗 Self-Driving Car Engineer | 🚁 Autonomous Flight Engineer |
 | :-: | :-: | :-: |
-| Robot perception, localization, and navigation | Sensors, vision, and driving software | Drones, flight control, and autonomy |
-
-![Udacity](https://img.shields.io/badge/Udacity-Autonomous_Systems_School-02B3E4?style=for-the-badge&logo=udacity&logoColor=white)
+| Perception, localization, and navigation | Sensors, vision, and driving software | Drones, flight control, and autonomy |
 
 </div>
 
 <br/>
 
-## 🚀 Featured Work
+<img src="assets/title-work.svg" width="100%" alt="Featured Work" />
 
 <div align="center">
 
-| Project | What it is | |
-| :-- | :-- | :-: |
-| 🪷 **Dharma Angels** | Conscious-tech product, built end to end | [**Visit →**](https://dharmaangels.com/) |
-| 🩺 **AlignCare** | Health appointment platform, clean and responsive | [**Visit →**](https://aligncare.dharmaangels.com/) |
-| 🧘 **MeditationTTC** | 12-week live online meditation teacher training | [**Visit →**](https://meditationttc.vercel.app/) |
+<a href="https://dharmaangels.com/"><img src="assets/card-dharma.svg" width="32%" alt="Dharma Angels" /></a>
+<a href="https://aligncare.dharmaangels.com/"><img src="assets/card-aligncare.svg" width="32%" alt="AlignCare" /></a>
+<a href="https://meditationttc.vercel.app/"><img src="assets/card-meditationttc.svg" width="32%" alt="MeditationTTC" /></a>
 
-More projects, my resume, and certifications live on my portfolio:
-**[shuvodipdashimu.vercel.app](https://shuvodipdashimu.vercel.app/)**
+<br/>
+
+More projects, my resume, and certifications live on my portfolio: **[shuvodipdashimu.vercel.app](https://shuvodipdashimu.vercel.app/)**
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+<img src="assets/title-stats.svg" width="100%" alt="GitHub Stats" />
 
 <div align="center">
 
@@ -131,20 +113,24 @@ More projects, my resume, and certifications live on my portfolio:
 
 <img src="https://streak-stats.demolab.com?user=ShuvodipDasHimu&theme=tokyonight&hide_border=true&background=0D1117&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB" alt="GitHub streak" />
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShuvodipDasHimu&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShuvodipDasHimu/ShuvodipDasHimu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShuvodipDasHimu/ShuvodipDasHimu/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ShuvodipDasHimu/ShuvodipDasHimu/output/github-snake-dark.svg" width="100%" />
+</picture>
+
 </div>
 
 <br/>
 
-## 🤝 Let's Connect
+<img src="assets/title-connect.svg" width="100%" alt="Let's Connect" />
 
 I'm always open to **feedback, collaboration, and new ideas**, especially around web apps, AI, and open source. If something here sparks a thought, reach out.
 
-<div align="center">
-
-<br/>
-
-*"What is unknown can be known through me."* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="Footer" />
-
-</div>
+<img src="assets/footer.svg" width="100%" alt="What is unknown can be known through me." />
