@@ -44,6 +44,22 @@ Before code, I led a squad in **Mobile Legends: Bang Bang** as a **Squad Leader*
 
 <br/>
 
+<img src="assets/title-community.svg" width="100%" alt="Community & Leadership" />
+
+I founded and lead **MBxES (MoulvibazarXEightySix)**, a community that connects people across tech and business so they can learn from each other and build together.
+
+<div align="center">
+
+<img src="assets/mbxes-hero.svg" width="100%" alt="Founder and Community Leader, MBxES (MoulvibazarXEightySix)" />
+
+<br/><br/>
+
+<img src="assets/mbxes-cards.svg" width="100%" alt="MBxES: founded and leading a community for innovators, technologists, technopreneurs, scientists and engineers, bringing together tech and business, connecting members across disciplines" />
+
+</div>
+
+<br/>
+
 <img src="assets/title-stack.svg" width="100%" alt="Tech Stack" />
 
 <div align="center">

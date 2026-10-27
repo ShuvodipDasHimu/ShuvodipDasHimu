@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 178" width="1000" height="178" role="img" aria-label="MBxES: founded and leading a community for ambitious innovators, technologists, technopreneurs, scientists and engineers; bringing together people across tech and business; connecting members across disciplines so they can share knowledge and collaborate.">
+<g transform="translate(0 0)"><g opacity="0"><animateTransform attributeName="transform" type="translate" from="0 50" to="0 0" dur="0.9s" begin="0.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.2s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.0s" begin="1.2s" repeatCount="indefinite"/>
+<rect x="1.5" y="1.5" width="313" height="175" rx="18" fill="#0d1117" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="313" height="175" rx="18" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" stroke-dasharray="90 988"><animate attributeName="stroke-dashoffset" from="0" to="-1078" dur="6s" begin="0.2s" repeatCount="indefinite"/></rect>
+<clipPath id="m0"><rect x="2" y="2" width="312" height="174" rx="17"/></clipPath>
+<g clip-path="url(#m0)"><circle cx="286" cy="30" r="70" fill="#38bdf8" opacity="0.07"><animate attributeName="r" values="60;85;60" dur="5s" repeatCount="indefinite"/></circle></g>
+<circle cx="44" cy="44" r="26" fill="#38bdf8" fill-opacity="0.15"/>
+<text x="44" y="54" text-anchor="middle" font-size="28">🚀<animateTransform attributeName="transform" type="rotate" values="0 44 44;-10 44 44;10 44 44;0 44 44" dur="3.5s" begin="1.7s" repeatCount="indefinite"/></text>
+<text x="86" y="50" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="800" letter-spacing="2.5" fill="#38bdf8">FOUNDED &amp; LEADING</text>
+<line x1="24" y1="72" x2="56" y2="72" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"><animate attributeName="x2" values="56;292;56" dur="5s" begin="1.2s" repeatCount="indefinite"/></line>
+<text x="24" y="104" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#c9d1d9">MBxES, a community for ambitious</text><text x="24" y="126" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#c9d1d9">innovators, technologists,</text><text x="24" y="148" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#c9d1d9">technopreneurs, scientists and</text><text x="24" y="170" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#c9d1d9">engineers.</text>
+</g></g></g><g transform="translate(342 0)"><g opacity="0"><animateTransform attributeName="transform" type="translate" from="0 50" to="0 0" dur="0.9s" begin="0.45s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.45s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.5s" begin="1.45s" repeatCount="indefinite"/>
+<rect x="1.5" y="1.5" width="313" height="175" rx="18" fill="#0d1117" stroke="#a78bfa" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="313" height="175" rx="18" fill="none" stroke="#a78bfa" stroke-width="2" stroke-linecap="round" stroke-dasharray="90 988"><animate attributeName="stroke-dashoffset" from="0" to="-1078" dur="6s" begin="0.45s" repeatCount="indefinite"/></rect>
+<clipPath id="m1"><rect x="2" y="2" width="312" height="174" rx="17"/></clipPath>
+<g clip-path="url(#m1)"><circle cx="286" cy="30" r="70" fill="#a78bfa" opacity="0.07"><animate attributeName="r" values="60;85;60" dur="5s" repeatCount="indefinite"/></circle></g>
+<circle cx="44" cy="44" r="26" fill="#a78bfa" fill-opacity="0.15"/>
+<text x="44" y="54" text-anchor="middle" font-size="28">🌐<animateTransform attributeName="transform" type="rotate" values="0 44 44;-10 44 44;10 44 44;0 44 44" dur="3.5s" begin="1.95s" repeatCount="indefinite"/></text>
+<text x="86" y="50" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="800" letter-spacing="2.5" fill="#a78bfa">BRINGING TOGETHER</text>
+<line x1="24" y1="72" x2="56" y2="72" stroke="#a78bfa" stroke-width="3" stroke-linecap="round"><animate attributeName="x2" values="56;292;56" dur="5s" begin="1.45s" repeatCount="indefinite"/></line>
+<text x="24" y="104" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#c9d1d9">People across tech and business,</text><text x="24" y="126" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#c9d1d9">from AI and cyber security to</text><text x="24" y="148" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#c9d1d9">economics, sales, finance and</text><text x="24" y="170" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#c9d1d9">marketing.</text>
+</g></g></g><g transform="translate(684 0)"><g opacity="0"><animateTransform attributeName="transform" type="translate" from="0 50" to="0 0" dur="0.9s" begin="0.7s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/><animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.7s" fill="freeze"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.0s" begin="1.7s" repeatCount="indefinite"/>
+<rect x="1.5" y="1.5" width="313" height="175" rx="18" fill="#0d1117" stroke="#f472b6" stroke-opacity="0.35" stroke-width="1.5"/>
+<rect x="1.5" y="1.5" width="313" height="175" rx="18" fill="none" stroke="#f472b6" stroke-width="2" stroke-linecap="round" stroke-dasharray="90 988"><animate attributeName="stroke-dashoffset" from="0" to="-1078" dur="6s" begin="0.7s" repeatCount="indefinite"/></rect>
+<clipPath id="m2"><rect x="2" y="2" width="312" height="174" rx="17"/></clipPath>
+<g clip-path="url(#m2)"><circle cx="286" cy="30" r="70" fill="#f472b6" opacity="0.07"><animate attributeName="r" values="60;85;60" dur="5s" repeatCount="indefinite"/></circle></g>
+<circle cx="44" cy="44" r="26" fill="#f472b6" fill-opacity="0.15"/>
+<text x="44" y="54" text-anchor="middle" font-size="28">🔗<animateTransform attributeName="transform" type="rotate" values="0 44 44;-10 44 44;10 44 44;0 44 44" dur="3.5s" begin="2.2s" repeatCount="indefinite"/></text>
+<text x="86" y="50" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="800" letter-spacing="2.5" fill="#f472b6">CONNECTING</text>
+<line x1="24" y1="72" x2="56" y2="72" stroke="#f472b6" stroke-width="3" stroke-linecap="round"><animate attributeName="x2" values="56;292;56" dur="5s" begin="1.7s" repeatCount="indefinite"/></line>
+<text x="24" y="104" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#c9d1d9">Members across disciplines so they</text><text x="24" y="126" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14.5" fill="#c9d1d9">can share knowledge and collaborate.</text>
+</g></g></g>
+</svg>
