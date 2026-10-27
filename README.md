@@ -20,11 +20,11 @@
 <br/>
 
 ## 👨‍💻 About Me
- 🛠️ Frontend Engineer at Dharma Angels, building MeditationTTC, a 12-week live online meditation teacher training
- 🧱 Previously Frontend Engineer Intern at SpeakGenie, where I was Lead Frontend Engineer for our team at the Google AI Hackathon
- 🎓 AWS Business Intelligence Engineer Nanodegree and AWS AI & ML scholar at Udacity, plus Responsive Web Design certified by freeCodeCamp
- 🎯 Focus: Fullstack engineering, AI systems, and STEM & CS foundations
- 🤝 Open to: open-source collaboration, real-world tech ideas, and chats about AI, robotics & innovation
+ 🛠️ Frontend Engineer at Dharma Angels, building MeditationTTC, a 12-week live online meditation teacher training  
+ 🧱 Previously Frontend Engineer Intern at SpeakGenie, where I was Lead Frontend Engineer for our team at the Google AI Hackathon  
+ 🎓 AWS Business Intelligence Engineer Nanodegree and AWS AI & ML scholar at Udacity, plus Responsive Web Design certified by freeCodeCamp  
+ 🎯 Focus: Fullstack engineering, AI systems, and STEM & CS foundations  
+ 🤝 Open to: open-source collaboration, real-world tech ideas, and chats about AI, robotics & innovation  
 
 > ⚡ **Fun fact:** As a kid I built robots out of paper. My mom and sister kept throwing them away, but my dad and brother didn't. 😄
 
