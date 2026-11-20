@@ -121,7 +121,7 @@ Paper robots as a kid, real robots someday. I'm interested in Udacity's **Autono
 
 <a href="https://dharmaangels.com/"><img src="assets/card-dharma.svg" width="32%" alt="Dharma Angels" /></a>
 <a href="https://aligncare.dharmaangels.com/"><img src="assets/card-aligncare.svg" width="32%" alt="AlignCare" /></a>
-<a href="https://meditationttc.vercel.app/"><img src="assets/card-meditationttc.svg" width="32%" alt="MeditationTTC" /></a>
+<a href="https://meditationttc.com/"><img src="assets/card-meditationttc.svg" width="32%" alt="MeditationTTC" /></a>
 
 <br/>
 
